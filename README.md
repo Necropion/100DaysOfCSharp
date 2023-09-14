@@ -1,13 +1,11 @@
 # 100DaysOfCSharp
 
-100 days of C# challenge
+100 Days of C# Challenge:
 
-Personal challenge of solving multiple C# coding exercises for 100 days straight.
-Minimum 1 exercise each day, difficulty increases exponentially.
-All commits must be 100% self-programmed without any use of AI/Automated tools.
-Tasks: Exercism.org and Leetcode.
+Follow me on my journey where i challenge myself to solving a C# exercise a day for 100 days in a row.
 
-Start date: 14.09.2023
+Rules: Minimum 1 exercise each day, difficulty increases exponentially. All commits must be 100% self-programmed without any use of AI/Automated tools. Tasks: Are downloaded from Exercism.org and Leetcode.
 
-End date:
-Result:
+Start date: 14.09.23
+
+End date: Result:
